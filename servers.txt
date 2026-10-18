@@ -1,9 +1,0 @@
-[
-    {
-        "name": "测试服",
-        "branch": "develop", 
-        "game_info": "https://fox925.github.io/api/",
-        "is_test_mod": true,
-        "server_host": "https://fox925.github.io/api/"
-    }
-]
